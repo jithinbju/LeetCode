@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/jithinbju/LeetCode/tree/master/2634-minimum-common-value) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/jithinbju/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
