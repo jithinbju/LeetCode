@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jithinbju/LeetCode/tree/master/0217-contains-duplicate) |
+| [0782-jewels-and-stones](https://github.com/jithinbju/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2634-minimum-common-value](https://github.com/jithinbju/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jithinbju/LeetCode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/jithinbju/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
