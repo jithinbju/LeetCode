@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jithinbju/LeetCode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/jithinbju/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2634-minimum-common-value](https://github.com/jithinbju/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -51,5 +52,14 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/jithinbju/LeetCode/tree/master/0782-jewels-and-stones) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
