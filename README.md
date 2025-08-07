@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jithinbju/LeetCode/tree/master/0009-palindrome-number) |
+| [0504-base-7](https://github.com/jithinbju/LeetCode/tree/master/0504-base-7) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0504-base-7](https://github.com/jithinbju/LeetCode/tree/master/0504-base-7) |
 | [0782-jewels-and-stones](https://github.com/jithinbju/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Queue
 |  |
