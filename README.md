@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jithinbju/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/jithinbju/LeetCode/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/jithinbju/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
