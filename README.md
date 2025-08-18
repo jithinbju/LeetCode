@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/jithinbju/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jithinbju/LeetCode/tree/master/0217-contains-duplicate) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/jithinbju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/jithinbju/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/jithinbju/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/jithinbju/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -15,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/jithinbju/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/jithinbju/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/jithinbju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/jithinbju/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
