@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/jithinbju/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/jithinbju/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jithinbju/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/jithinbju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jithinbju/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/jithinbju/LeetCode/tree/master/0066-plus-one) |
 | [0504-base-7](https://github.com/jithinbju/LeetCode/tree/master/0504-base-7) |
 ## Linked List
 |  |
