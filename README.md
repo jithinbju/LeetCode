@@ -20,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/jithinbju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/jithinbju/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jithinbju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1500-count-largest-group](https://github.com/jithinbju/LeetCode/tree/master/1500-count-largest-group) |
 | [2634-minimum-common-value](https://github.com/jithinbju/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/jithinbju/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jithinbju/LeetCode/tree/master/0066-plus-one) |
 | [0504-base-7](https://github.com/jithinbju/LeetCode/tree/master/0504-base-7) |
+| [1500-count-largest-group](https://github.com/jithinbju/LeetCode/tree/master/1500-count-largest-group) |
 ## Linked List
 |  |
 | ------- |
